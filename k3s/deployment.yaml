@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cpf
-          image: dellabeneta/cpf:v1
+          image: dellabeneta/cpf:dev
           ports:
             - containerPort: 8080
           resources:
