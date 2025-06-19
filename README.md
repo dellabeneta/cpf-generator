@@ -1,4 +1,4 @@
-## 🆔 CPF Generator
+## CPF Generator
 
 
 
