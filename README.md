@@ -1,7 +1,5 @@
 ## CPF Generator
 
-
-
 [![Go Version](https://img.shields.io/badge/Go-1.24.3-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/r/dellabeneta/cpf)
@@ -91,6 +89,7 @@ O serviço pode ser configurado através das seguintes variáveis de ambiente:
 ```
 della@ubuntu:~/projetos/cpf-generator$ tree
 .
+├── cpf.png
 ├── Dockerfile
 ├── go.mod
 ├── k3s
@@ -98,7 +97,6 @@ della@ubuntu:~/projetos/cpf-generator$ tree
 │   ├── namespace.yaml
 │   └── service.yaml
 ├── main.go
-├── MODELO.md
 ├── nuke.sh
 ├── README.md
 └── static
