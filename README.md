@@ -1,8 +1,7 @@
 ## CPF Generator
 
-[![Go Version](https://img.shields.io/badge/Go-1.24.3-00ADD8?style=flat-square&logo=go)](https://golang.org)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/r/dellabeneta/cpf)
+![Pipeline](https://github.com/dellabeneta/cpf-generator/actions/workflows/main.yaml/badge.svg)
+![GHCR version](https://img.shields.io/badge/ContainerVersion-v7-blue)
 
 Um gerador de CPF brasileiro válido, desenvolvido em Go. Gere CPFs com dígitos verificadores corretos através de uma interface web intuitiva e responsiva.
 
