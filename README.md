@@ -1,7 +1,6 @@
 ## CPF Generator
 
 ![Pipeline](https://github.com/dellabeneta/cpf-generator/actions/workflows/main.yaml/badge.svg)
-![GHCR version](https://img.shields.io/badge/ContainerVersion-v7-blue)
 
 Um gerador de CPF brasileiro válido, desenvolvido em Go. Gere CPFs com dígitos verificadores corretos através de uma interface web intuitiva e responsiva.
 
